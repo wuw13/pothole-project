@@ -4,11 +4,13 @@
 This is for a summer camp and made in >1d, not of high quality work.
 
 **Description**
+
 Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
 
 
 **YOLO**
+
 The model is powered by YOLOv10. (https://github.com/THU-MIG/yolov10)
 Here is how YOLO works (simplified by a lot):
 
@@ -35,6 +37,7 @@ The final output includes bounding boxes, class labels, confidence scores, and s
 
 
 **DATASET**
+
 Using the 'Pothole 2' Dataset created by PROJECT:
 (https://universe.roboflow.com/project-saocp/pothole-2-mhkce)
 
@@ -42,6 +45,7 @@ Dataset Published by Roboflow (Universe)
 
 
 **HOW TO RUN**
+
 1. Download the file in **Releases** (left sidebar) or **Code** (green button).
 2. Extract files (ZIP) locally and open `main.py` with your python IDE.
 ```
