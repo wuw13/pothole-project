@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Pothole', 'Sewage-Manhole']
+
+roboflow:
+  workspace: project-saocp
+  project: pothole-2-mhkce
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project-saocp/pothole-2-mhkce/dataset/3
