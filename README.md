@@ -43,7 +43,6 @@ Dataset Published by Roboflow (Universe)
 ### HOW TO RUN
 1. Download the file in **Releases** (left sidebar) or **Code** (green button).
 2. Extract files (ZIP) locally and open `main.py` with your python IDE.
-3. All dependencies should have been locally installed in the file. If not, install them manually with pip.
 ```
 pip install torch torchvision
 pip install numpy==1.26.4
@@ -51,9 +50,9 @@ pip install ultralytics
 ```
 Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
 
-4. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
-5. Run `main.py` with your IDE.
-6. Profit
+3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
+4. Run `main.py` with your IDE.
+5. Profit
 
 **Manual Installation**
 Here is a list of dependencies to install and their instructions if you were to install them manually.
