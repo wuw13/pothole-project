@@ -50,6 +50,7 @@ pip install numpy==1.26.4
 pip install ultralytics
 ```
 Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
+
 4. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 5. Run `main.py` with your IDE.
 6. Profit
