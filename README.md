@@ -1,6 +1,7 @@
 
 ## POTHOLE OBJECT DETECTION
 
+This is for a summer camp and made in >1d, not of high quality work.
 
 ### DESCRIPTION
 Simple student project made to detect potholes in roads. (WIP. alerting system)
