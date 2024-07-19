@@ -3,8 +3,8 @@
 This is for a summer camp and made in >1d, not of high quality work.
 
 
-###
-###
+### 
+### 
 ### Description
 Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
