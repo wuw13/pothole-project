@@ -37,7 +37,7 @@ Use Case: Will test your finetuned YOLOv10 model on a image from the 'test' set.
 ACTION = 'STATIC_TEST'
 # The action that the code will execute.
 
-DEFAULT_MODEL = 'pretrained_models/yolov10x.pt'                                           # The baseline model that the code will finetune upon.
+DEFAULT_MODEL = 'pretrained_models/yolov10n.pt'                                           # The baseline model that the code will finetune upon.
 FINETUNED_MODEL = 'runs/detect/train/weights/best.pt'                                     # The finetuned model's (if applicable) path.
 OS_DATASET_DIR = "C:\\Users\\Student\\PycharmProjects\\ai_image_detect\\pothole_dataset"  # The OS directory for the dataset.
 PY_DATASET_DIR = 'pothole_dataset'                                                        # The Python (regular) path for the dataset directory.
