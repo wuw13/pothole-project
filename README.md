@@ -1,11 +1,10 @@
 
 # Pothole Object Detection
-
 This is for a summer camp and made in >1d, not of high quality work.
 
 
-
-
+###
+###
 ### Description
 Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
@@ -14,7 +13,7 @@ Ideally placed on the windshield of cars to detect potholes in the road in front
 
 
 ### YOLO
-The model is powered by YOLOv10. (https://github.com/THU-MIG/yolov10)
+The model is powered by [YOLOv10](https://github.com/THU-MIG/yolov10).
 Here is how YOLO works (simplified by a lot):
 
 1. **Input Processing**
@@ -55,7 +54,7 @@ pip install torch torchvision
 pip install numpy==1.26.4
 pip install ultralytics
 ```
-Download `yolov10` from the [YOLOv10_GitHub](https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
+Download `yolov10` from the [YOLOv10 GitHub](https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
 
 3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 4. Run `main.py` with your IDE.
