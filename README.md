@@ -23,8 +23,7 @@ The image is normalized (scaled to a value between 0 and 1) and converted to a 2
 
 2. **Feature Extraction**
 A CNN (Convolution Neural Network) backbone extracts features from the input image.
-The backbone extracts feature maps at different scales. See 3Blue1Brown's video for details.
-(https://www.youtube.com/watch?v=KuXjwB4LzSA)
+The backbone extracts feature maps at different scales. See 3Blue1Brown's [video](https://www.youtube.com/watch?v=KuXjwB4LzSA) for details.
 
 3. **Neck**
 A FPN (Feature Pyramid Network) combines features from different scales.
@@ -42,9 +41,7 @@ The final output includes bounding boxes, class labels, confidence scores, and s
 
 
 ### DATASET
-Using the 'Pothole 2' Dataset created by PROJECT:
-(https://universe.roboflow.com/project-saocp/pothole-2-mhkce)
-
+Using the 'Pothole 2' [Dataset](https://universe.roboflow.com/project-saocp/pothole-2-mhkce) created by PROJECT:
 Dataset Published by Roboflow (Universe)
 
 
@@ -58,7 +55,7 @@ pip install torch torchvision
 pip install numpy==1.26.4
 pip install ultralytics
 ```
-Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
+Download `yolov10` from the [YOLOv10 GitHub](https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
 
 3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 4. Run `main.py` with your IDE.
