@@ -1,5 +1,5 @@
 
-## POTHOLE OBJECT DETECTION
+## Pothole Object Detection
 
 This is for a summer camp and made in >1d, not of high quality work.
 
