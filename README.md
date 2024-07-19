@@ -55,7 +55,7 @@ pip install torch torchvision
 pip install numpy==1.26.4
 pip install ultralytics
 ```
-Download `yolov10` from the [YOLOv10 GitHub](https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
+Download `yolov10` from the [YOLOv10_GitHub](https://github.com/THU-MIG/yolov10). Extract it and put it in the home directory.
 
 3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 4. Run `main.py` with your IDE.
