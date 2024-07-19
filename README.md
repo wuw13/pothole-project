@@ -61,3 +61,5 @@ Here is a list of dependencies to install and their instructions if you were to 
 1. **Ultralytics**: `pip install ultralytics`
 2. **CV2**: `pip install cv2`
 3. **YOLOv10**: Download YOLOv10's code from link **above**. Place it in the home directory.
+
+Made with PyCharm Community 2024.1.4 IDE, please try reproducing with this IDE if something goes wrong.
