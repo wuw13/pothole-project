@@ -4,9 +4,13 @@
 This is for a summer camp and made in >1d, not of high quality work.
 
 
+
+
 ### Description
 Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
+
+
 
 
 ### YOLO
@@ -35,11 +39,15 @@ NMS (Non-Maximum Suppression) is applied to filter out overlapping detections.
 The final output includes bounding boxes, class labels, confidence scores, and segmentation masks (if enabled).
 
 
+
+
 ### DATASET
 Using the 'Pothole 2' Dataset created by PROJECT:
 (https://universe.roboflow.com/project-saocp/pothole-2-mhkce)
 
 Dataset Published by Roboflow (Universe)
+
+
 
 
 ### HOW TO RUN
@@ -55,6 +63,8 @@ Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10).
 3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 4. Run `main.py` with your IDE.
 5. Profit
+
+
 
 
 ### Manual Installation
