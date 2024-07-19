@@ -1,5 +1,6 @@
 
 ## POTHOLE OBJECT DETECTION
+Made by **DEREK WU**
 
 
 ### DESCRIPTION
