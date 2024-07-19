@@ -3,11 +3,13 @@
 
 This is for a summer camp and made in >1d, not of high quality work.
 
-**Description**Simple student project made to detect potholes in roads. (WIP. alerting system)
+**Description**
+Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
 
 
-**YOLO**The model is powered by YOLOv10. (https://github.com/THU-MIG/yolov10)
+**YOLO**
+The model is powered by YOLOv10. (https://github.com/THU-MIG/yolov10)
 Here is how YOLO works (simplified by a lot):
 
 1. **Input Processing**
@@ -32,7 +34,8 @@ NMS (Non-Maximum Suppression) is applied to filter out overlapping detections.
 The final output includes bounding boxes, class labels, confidence scores, and segmentation masks (if enabled).
 
 
-**DATASET**Using the 'Pothole 2' Dataset created by PROJECT:
+**DATASET**
+Using the 'Pothole 2' Dataset created by PROJECT:
 (https://universe.roboflow.com/project-saocp/pothole-2-mhkce)
 
 Dataset Published by Roboflow (Universe)
@@ -52,7 +55,8 @@ Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10).
 4. Run `main.py` with your IDE.
 5. Profit
 
-**Manual Installation**Here is a list of dependencies to install and their instructions if you were to install them manually.
+**Manual Installation**
+Here is a list of dependencies to install and their instructions if you were to install them manually.
 
 1. **Ultralytics**: `pip install ultralytics`
 2. **CV2**: `pip install cv2`
