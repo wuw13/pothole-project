@@ -3,6 +3,7 @@
 
 This is for a summer camp and made in >1d, not of high quality work.
 
+
 ### Description
 Simple student project made to detect potholes in roads. (WIP. alerting system)
 Ideally placed on the windshield of cars to detect potholes in the road in front and notify the driver.
@@ -54,6 +55,7 @@ Download `yolov10` from the YOLOv10 GitHub (https://github.com/THU-MIG/yolov10).
 3. Change the `ACTION` constant to specify what you want to do. Action descriptions is in `main.py`.
 4. Run `main.py` with your IDE.
 5. Profit
+
 
 ### Manual Installation
 Here is a list of dependencies to install and their instructions if you were to install them manually.
