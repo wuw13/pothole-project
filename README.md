@@ -37,7 +37,7 @@ The final output includes bounding boxes, class labels, confidence scores, and s
 <br/>
 
 ### DATASET
-Using the 'Pothole 2' [Dataset](https://universe.roboflow.com/project-saocp/pothole-2-mhkce) created by PROJECT:
+Using the 'Pothole 2' [Dataset](https://universe.roboflow.com/project-saocp/pothole-2-mhkce) created by PROJECT.
 Dataset Published by Roboflow (Universe)
 
 <br/>
